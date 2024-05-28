@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SparkFun_QwiicBus_Endpoint")(type "KiCad")(uri "$(KIPRJMOD)/SparkFun_QwiicBus_Endpoint.pretty")(options "")(descr ""))
+)
