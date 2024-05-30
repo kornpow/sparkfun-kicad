@@ -1,0 +1,20 @@
+(footprint "#LED#10" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 82a75777-cf47-41c7-8210-b92015392f46)
+  )
+  (fp_text value "" (at 0 0) (layer "F.Fab")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp c92c28f3-1e5e-4da9-be0f-b88b79dc91d4)
+  )
+  (fp_poly
+    (pts
+      (xy -1.407534 0.239589)
+      (xy -1.41 0.24)
+      (xy -1.41 0.2375)
+      (xy -1.407882 0.2375)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.SilkS") (tstamp ccabc482-8e6c-4871-86a0-9fa9ac2f96d1))
+)

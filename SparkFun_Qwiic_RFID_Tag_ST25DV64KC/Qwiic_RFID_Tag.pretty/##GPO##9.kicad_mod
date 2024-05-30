@@ -1,0 +1,20 @@
+(footprint "##GPO##9" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 88cc762e-b5df-4dcd-b27e-1cd4b9254037)
+  )
+  (fp_text value "" (at 0 0) (layer "F.Fab")
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp d14a1ec7-a050-4139-bd39-f00e49cd2347)
+  )
+  (fp_poly
+    (pts
+      (xy -1.329313 0.377596)
+      (xy -1.33 0.38)
+      (xy -1.330411 0.377534)
+      (xy -1.329854 0.377441)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.SilkS") (tstamp 1023008d-5082-4ef1-9286-e660e09f3317))
+)
